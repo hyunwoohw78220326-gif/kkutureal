@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-socketio[asyncio_client]
+aiofiles
+python-jose   # (선택, 인증 쓸 경우)
+streamlit
